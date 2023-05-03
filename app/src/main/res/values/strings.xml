@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">NumberGuessingGame</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="開始遊戲">開始遊戲</string>
+    <string name="猜數字">猜數字</string>
+    <string name="previous">Previous</string>
+    <string name="登入">登入</string>
+    <string name="紀錄">紀錄</string>
+    <string name="輸入數字">輸入數字</string>
+    <string name="猜對啦">猜對啦</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="account">帳號:</string>
+    <string name="allCorrect"></string>
+    <string name="todo">TODO</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="password4" />
+    <string name="guess1" />
+    <string name="guess2" />
+    <string name="guess3" />
+    <string name="guess4" />
+    <string name="correctAnswer" />
+    <string name="繼續遊戲" />
+    <string name="猜錯了" />
+    <string name="back">返回</string>
+    <string name="playAgain">再玩一次</string>
+    <string name="littleGame">數字小遊戲</string>
+    <string name="mathNum1"></string>
+    <string name="mathNum2"></string>
+    <string name="mathNum3"></string>
+    <string name="math3" /> +-*/
+    <string name="math2" /> +-*/
+    <string name="math1" />
+    <string name="答題結果" />
+    <string name="正確答案" />
+    <string name="Continue">繼續遊戲</string>
+    <string name="bonusPoint">加  分</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    android:fontFamily="casual"
+    android:textColor="#4C3318"
+    android:textSize="45sp"
+    app:iconPadding="0dp"
+</resources>
+
